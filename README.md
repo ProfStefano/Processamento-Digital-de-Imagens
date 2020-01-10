@@ -1,2 +1,4 @@
 # Processamento-Digital-de-Imagens
-arquivos de aulas
+
+
+Material para acompanhar as aulas de processamento digial de imagens - IFSC - campus Joinville -SC
